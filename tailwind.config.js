@@ -3,7 +3,7 @@ module.exports = {
   content: ["./**/*.{html,js}"],
   theme: {
     extend: {fontFamily: {
-      customFont: "OpenSans-VariableFont",
+      customFont: "Montserrat-Light",
     },
   },
   plugins: [],
